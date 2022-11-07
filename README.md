@@ -22,7 +22,7 @@ class Skills:
 class Social:
     github: str = 'https://www.github.com/Arch3xpert'
     codewars: str = 'https://www.codewars.com/users/Arch3xpert'
-    telegram: str = 'https://t.me/Arch3xpert'
+    telegram: str = 'https://t.me/sbexam'
     email: str = 'contact@sbexam.com' 
 ```
 
