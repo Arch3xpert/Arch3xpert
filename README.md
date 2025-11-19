@@ -14,7 +14,7 @@ class Portfolio:
 
 @dataclass(frozen=True)
 class Skills:
-    languages: Sequence[str] = 'python', 'shell', 'JavaScript', 'telethon', 'html', 'java', 'css', 'C++', 'c#', 'Visual Basic', 'ruby', 'many more'
+    languages: Sequence[str] = 'python', 'shell', 'JavaScript', 'telethon', 'html', 'java', 'css', 'C++', 'c#', 'Visual Basic', 'ruby', 'golang', 'Type Script', 'Django' 'many more'
     operation_systems: Sequence[str] = 'Linux', 'Windows', 'dragon focal'
    
 
@@ -23,7 +23,8 @@ class Social:
     github: str = 'https://www.github.com/Arch3xpert'
     codewars: str = 'https://www.codewars.com/users/Arch3xpert'
     telegram: str = 'https://t.me/sbexam'
-    email: str = 'contact@sbexam.com' 
+    Instagram,: str = 'https://instagram.com/sbexam'
+    email: str = 'support@sbexam.com' 
 ```
 
 
